@@ -1,0 +1,22 @@
+// $base-size: 1200px;
+
+// .container {
+//   width: $base-size;
+ 
+
+//   // background-color: #f00;
+//   &.exclude {
+//     margin: auto;
+//   }
+//   &.include {
+//     width: 100%;
+//   }
+//   &.left {
+//     width: calc($base-size + (100% - $base-size) / 2);
+//     margin-right: calc((100% - $base-size) / 2);
+//   }
+//   &.right {
+//     width: calc($base-size + (100% - $base-size) / 2);
+//     margin-left: calc((100% - $base-size) / 2);
+//   }
+// }
